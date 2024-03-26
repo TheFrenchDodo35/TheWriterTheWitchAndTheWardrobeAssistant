@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            //facingDirection - 0 (up), 1 (right), 2 (down), and 3 (left). Defaults to down.
+            //    <time> [location] <tileX> <tileY> [facingDirection] [animation] [dialogue]
+            "LogName": "Schedule Dialogue",
+            "Action": "EditData",
+            "Target": "Strings/schedules/EdwinaOBrien",
+            "Entries": {
+	"edwina.000": "I grew up in this house, you know?$7#$b#There were not much here at the time. It was before the mining rush.$7#$b#Different time.$8",
+    "edwina.001": "I am not here to buy anything. I am trying to understand how this mouse came to be.$7",
+    "edwina.002": "If you are surprised to see me here, you do not know anything about magic.$3#$b#Yoba is not a mere divinity. There's the force of light that bound the whole creation together.#$b#I am not worshipping. I am merely paying my respects.#$b#Now leave me be.#$9",
+    "edwina.003": "What are you doing here?$5#$b#I could have been naked in the bath. Is that what you wanted to see you pervert?$6",
+
+            }
+        }
+    ]
+}

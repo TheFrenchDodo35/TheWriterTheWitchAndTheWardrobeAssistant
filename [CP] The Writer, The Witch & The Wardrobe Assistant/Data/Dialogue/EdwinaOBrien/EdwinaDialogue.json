@@ -1,0 +1,271 @@
+﻿{
+  "Changes": [
+    {
+      "LogName": "Edwina Dialogue",
+      "Action": "EditData",
+      "Target": "Characters/Dialogue/EdwinaOBrien",
+      "Entries": {
+        "Introduction": "{{i18n:Edwina.Introduction}}",
+
+        //Spring
+        "spring_Mon": "{{i18n:Edwina.Spring.Mon.0}}",
+        "spring_Tue": "{{i18n:Edwina.Spring.Tue.0}}",
+        "spring_Wed": "{{i18n:Edwina.Spring.Wed.0}}",
+        "spring_Thu": "{{i18n:Edwina.Spring.Thu.0}}",
+        "spring_Fri": "{{i18n:Edwina.Spring.Fri.0}}",
+        "spring_Sat": "{{i18n:Edwina.Spring.Sat.0}}",
+        "spring_Sun": "{{i18n:Edwina.Spring.Sun.0}}",
+        //2 Hearts
+        "spring_Mon2": "{{i18n:Edwina.Spring.Mon.2}}",
+        "spring_Tue2": "{{i18n:Edwina.Spring.Tue.2}}",
+        "spring_Wed2": "{{i18n:Edwina.Spring.Wed.2}}",
+        "spring_Thu2": "{{i18n:Edwina.Spring.Thu.2}}",
+        "spring_Fri2": "{{i18n:Edwina.Spring.Fri.2}}",
+        "spring_Sat2": "{{i18n:Edwina.Spring.Sat.2}}",
+        "spring_Sun2": "{{i18n:Edwina.Spring.Sun.2}}",
+        //4 Hearts
+        "spring_Mon4": "{{i18n:Edwina.Spring.Mon.4}}",
+        "spring_Tue4": "{{i18n:Edwina.Spring.Tue.4}}",
+        "spring_Wed4": "{{i18n:Edwina.Spring.Wed.4}}",
+        "spring_Thu4": "{{i18n:Edwina.Spring.Thu.4}}",
+        "spring_Fri4": "{{i18n:Edwina.Spring.Fri.4}}",
+        "spring_Sat4": "{{i18n:Edwina.Spring.Sat.4}}",
+        "spring_Sun4": "{{i18n:Edwina.Spring.Sun.4}}",
+        //6 Hearts
+        "spring_Mon6": "{{i18n:Edwina.Spring.Mon.6}}",
+        "spring_Tue6": "{{i18n:Edwina.Spring.Tue.6}}",
+        "spring_Wed6": "{{i18n:Edwina.Spring.Wed.6}}",
+        "spring_Thu6": "{{i18n:Edwina.Spring.Thu.6}}",
+        "spring_Fri6": "{{i18n:Edwina.Spring.Fri.6}}",
+        "spring_Sat6": "{{i18n:Edwina.Spring.Sat.6}}",
+        "spring_Sun6": "{{i18n:Edwina.Spring.Sun.6}}",
+        //8 Hearts
+        "spring_Mon8": "{{i18n:Edwina.Spring.Mon.8}}",
+        "spring_Tue8": "{{i18n:Edwina.Spring.Tue.8}}",
+        "spring_Wed8": "{{i18n:Edwina.Spring.Wed.8}}",
+        "spring_Thu8": "{{i18n:Edwina.Spring.Thu.8}}",
+        "spring_Fri8": "{{i18n:Edwina.Spring.Fri.8}}",
+        "spring_Sat8": "{{i18n:Edwina.Spring.Sat.8}}",
+        "spring_Sun8": "{{i18n:Edwina.Spring.Sun.8}}",
+        //10 Hearts
+        "spring_Mon10": "{{i18n:Edwina.Spring.Mon.10}}",
+        "spring_Tue10": "{{i18n:Edwina.Spring.Tue.10}}",
+        "spring_Wed10": "{{i18n:Edwina.Spring.Wed.10}}",
+        "spring_Thu10": "{{i18n:Edwina.Spring.Thu.10}}",
+        "spring_Fri10": "{{i18n:Edwina.Spring.Fri.10}}",
+        "spring_Sat10": "{{i18n:Edwina.Spring.Sat.10}}",
+        "spring_Sun10": "{{i18n:Edwina.Spring.Sun.10}}",
+
+        //Summer
+        "summer_Mon": "{{i18n:Edwina.summer.Mon.0}}",
+        "summer_Tue": "{{i18n:Edwina.summer.Tue.0}}",
+        "summer_Wed": "{{i18n:Edwina.summer.Wed.0}}",
+        "summer_Thu": "{{i18n:Edwina.summer.Thu.0}}",
+        "summer_Fri": "{{i18n:Edwina.summer.Fri.0}}",
+        "summer_Sat": "{{i18n:Edwina.summer.Sat.0}}",
+        "summer_Sun": "{{i18n:Edwina.summer.Sun.0}}",
+        //2 Hearts
+       // "summer_Mon2": "{{i18n:Edwina.summer.Mon.2}}",
+       "summer_Mon2": "{{i18n:Edwina.Transmutation.Intro.{{Random:01, 02, 03}}}}{{i18n:Edwina.Transmutation.Origin.{{Random:01, 02, 03, 04, 05, 06, 07, 08, 09, 10}}}}{{i18n:Edwina.Transmutation.Into}}{{i18n:Edwina.Transmutation.Target.{{Random:01, 02, 03, 04, 05, 06, 07, 08, 09, 10}}}}",
+        "summer_Tue2": "{{i18n:Edwina.summer.Tue.2}}",
+        "summer_Wed2": "{{i18n:Edwina.summer.Wed.2}}",
+        "summer_Thu2": "{{i18n:Edwina.summer.Thu.2}}",
+        "summer_Fri2": "{{i18n:Edwina.summer.Fri.2}}",
+        "summer_Sat2": "{{i18n:Edwina.summer.Sat.2}}",
+        "summer_Sun2": "{{i18n:Edwina.summer.Sun.2}}",
+        //4 Hearts
+        "summer_Mon4": "{{i18n:Edwina.summer.Mon.4}}",
+        "summer_Tue4": "{{i18n:Edwina.summer.Tue.4}}",
+        "summer_Wed4": "{{i18n:Edwina.summer.Wed.4}}",
+        "summer_Thu4": "{{i18n:Edwina.summer.Thu.4}}",
+        "summer_Fri4": "{{i18n:Edwina.summer.Fri.4}}",
+        "summer_Sat4": "{{i18n:Edwina.summer.Sat.4}}",
+        "summer_Sun4": "{{i18n:Edwina.summer.Sun.4}}",
+        //6 Hearts
+        "summer_Mon6": "{{i18n:Edwina.summer.Mon.6}}",
+        "summer_Tue6": "{{i18n:Edwina.summer.Tue.6}}",
+        "summer_Wed6": "{{i18n:Edwina.summer.Wed.6}}",
+        "summer_Thu6": "{{i18n:Edwina.summer.Thu.6}}",
+        "summer_Fri6": "{{i18n:Edwina.summer.Fri.6}}",
+        "summer_Sat6": "{{i18n:Edwina.summer.Sat.6}}",
+        "summer_Sun6": "{{i18n:Edwina.summer.Sun.6}}",
+        //8 Hearts
+        "summer_Mon8": "{{i18n:Edwina.summer.Mon.8}}",
+        "summer_Tue8": "{{i18n:Edwina.summer.Tue.8}}",
+        "summer_Wed8": "{{i18n:Edwina.summer.Wed.8}}",
+        "summer_Thu8": "{{i18n:Edwina.summer.Thu.8}}",
+        "summer_Fri8": "{{i18n:Edwina.summer.Fri.8}}",
+        "summer_Sat8": "{{i18n:Edwina.summer.Sat.8}}",
+        "summer_Sun8": "{{i18n:Edwina.summer.Sun.8}}",
+        //10 Hearts
+        "summer_Mon10": "{{i18n:Edwina.summer.Mon.10}}",
+        "summer_Tue10": "{{i18n:Edwina.summer.Tue.10}}",
+        "summer_Wed10": "{{i18n:Edwina.summer.Wed.10}}",
+        "summer_Thu10": "{{i18n:Edwina.summer.Thu.10}}",
+        "summer_Fri10": "{{i18n:Edwina.summer.Fri.10}}",
+        "summer_Sat10": "{{i18n:Edwina.summer.Sat.10}}",
+        "summer_Sun10": "{{i18n:Edwina.summer.Sun.10}}",
+
+        //Fall
+        "fall_Mon": "{{i18n:Edwina.fall.Mon.0}}",
+        "fall_Tue": "{{i18n:Edwina.fall.Tue.0}}",
+        "fall_Wed": "{{i18n:Edwina.fall.Wed.0}}",
+        "fall_Thu": "{{i18n:Edwina.fall.Thu.0}}",
+        "fall_Fri": "{{i18n:Edwina.fall.Fri.0}}",
+        "fall_Sat": "{{i18n:Edwina.fall.Sat.0}}",
+        "fall_Sun": "{{i18n:Edwina.fall.Sun.0}}",
+        //2 Hearts
+        "fall_Mon2": "{{i18n:Edwina.fall.Mon.2}}",
+        "fall_Tue2": "{{i18n:Edwina.fall.Tue.2}}",
+        "fall_Wed2": "{{i18n:Edwina.fall.Wed.2}}",
+        "fall_Thu2": "{{i18n:Edwina.fall.Thu.2}}",
+        "fall_Fri2": "{{i18n:Edwina.fall.Fri.2}}",
+        "fall_Sat2": "{{i18n:Edwina.fall.Sat.2}}",
+        "fall_Sun2": "{{i18n:Edwina.fall.Sun.2}}",
+        //4 Hearts
+        "fall_Mon4": "{{i18n:Edwina.fall.Mon.4}}",
+        "fall_Tue4": "{{i18n:Edwina.fall.Tue.4}}",
+        "fall_Wed4": "{{i18n:Edwina.fall.Wed.4}}",
+        "fall_Thu4": "{{i18n:Edwina.fall.Thu.4}}",
+        "fall_Fri4": "{{i18n:Edwina.fall.Fri.4}}",
+        "fall_Sat4": "{{i18n:Edwina.fall.Sat.4}}",
+        "fall_Sun4": "{{i18n:Edwina.fall.Sun.4}}",
+        //6 Hearts
+        "fall_Mon6": "{{i18n:Edwina.fall.Mon.6}}",
+        "fall_Tue6": "{{i18n:Edwina.fall.Tue.6}}",
+        "fall_Wed6": "{{i18n:Edwina.fall.Wed.6}}",
+        "fall_Thu6": "{{i18n:Edwina.fall.Thu.6}}",
+        "fall_Fri6": "{{i18n:Edwina.fall.Fri.6}}",
+        "fall_Sat6": "{{i18n:Edwina.fall.Sat.6}}",
+        "fall_Sun6": "{{i18n:Edwina.fall.Sun.6}}",
+        //8 Hearts
+        "fall_Mon8": "{{i18n:Edwina.fall.Mon.8}}",
+        "fall_Tue8": "{{i18n:Edwina.fall.Tue.8}}",
+        "fall_Wed8": "{{i18n:Edwina.fall.Wed.8}}",
+        "fall_Thu8": "{{i18n:Edwina.fall.Thu.8}}",
+        "fall_Fri8": "{{i18n:Edwina.fall.Fri.8}}",
+        "fall_Sat8": "{{i18n:Edwina.fall.Sat.8}}",
+        "fall_Sun8": "{{i18n:Edwina.fall.Sun.8}}",
+        //10 Hearts
+        "fall_Mon10": "{{i18n:Edwina.fall.Mon.10}}",
+        "fall_Tue10": "{{i18n:Edwina.fall.Tue.10}}",
+        "fall_Wed10": "{{i18n:Edwina.fall.Wed.10}}",
+        "fall_Thu10": "{{i18n:Edwina.fall.Thu.10}}",
+        "fall_Fri10": "{{i18n:Edwina.fall.Fri.10}}",
+        "fall_Sat10": "{{i18n:Edwina.fall.Sat.10}}",
+        "fall_Sun10": "{{i18n:Edwina.fall.Sun.10}}",
+
+        //Winter
+        "winter_Mon": "{{i18n:Edwina.winter.Mon.0}}",
+        "winter_Tue": "{{i18n:Edwina.winter.Tue.0}}",
+        "winter_Wed": "{{i18n:Edwina.winter.Wed.0}}",
+        "winter_Thu": "{{i18n:Edwina.winter.Thu.0}}",
+        "winter_Fri": "{{i18n:Edwina.winter.Fri.0}}",
+        "winter_Sat": "{{i18n:Edwina.winter.Sat.0}}",
+        "winter_Sun": "{{i18n:Edwina.winter.Sun.0}}",
+        //2 Hearts
+        "winter_Mon2": "{{i18n:Edwina.winter.Mon.2}}",
+        "winter_Tue2": "{{i18n:Edwina.winter.Tue.2}}",
+        "winter_Wed2": "{{i18n:Edwina.winter.Wed.2}}",
+        "winter_Thu2": "{{i18n:Edwina.winter.Thu.2}}",
+        "winter_Fri2": "{{i18n:Edwina.winter.Fri.2}}",
+        "winter_Sat2": "{{i18n:Edwina.winter.Sat.2}}",
+        "winter_Sun2": "{{i18n:Edwina.winter.Sun.2}}",
+        //4 Hearts
+        "winter_Mon4": "{{i18n:Edwina.winter.Mon.4}}",
+        "winter_Tue4": "{{i18n:Edwina.winter.Tue.4}}",
+        "winter_Wed4": "{{i18n:Edwina.winter.Wed.4}}",
+        "winter_Thu4": "{{i18n:Edwina.winter.Thu.4}}",
+        "winter_Fri4": "{{i18n:Edwina.winter.Fri.4}}",
+        "winter_Sat4": "{{i18n:Edwina.winter.Sat.4}}",
+        "winter_Sun4": "{{i18n:Edwina.winter.Sun.4}}",
+        //6 Hearts
+        "winter_Mon6": "{{i18n:Edwina.winter.Mon.6}}",
+        "winter_Tue6": "{{i18n:Edwina.winter.Tue.6}}",
+        "winter_Wed6": "{{i18n:Edwina.winter.Wed.6}}",
+        "winter_Thu6": "{{i18n:Edwina.winter.Thu.6}}",
+        "winter_Fri6": "{{i18n:Edwina.winter.Fri.6}}",
+        "winter_Sat6": "{{i18n:Edwina.winter.Sat.6}}",
+        "winter_Sun6": "{{i18n:Edwina.winter.Sun.6}}",
+        //8 Hearts
+        "winter_Mon8": "{{i18n:Edwina.winter.Mon.8}}",
+        "winter_Tue8": "{{i18n:Edwina.winter.Tue.8}}",
+        "winter_Wed8": "{{i18n:Edwina.winter.Wed.8}}",
+        "winter_Thu8": "{{i18n:Edwina.winter.Thu.8}}",
+        "winter_Fri8": "{{i18n:Edwina.winter.Fri.8}}",
+        "winter_Sat8": "{{i18n:Edwina.winter.Sat.8}}",
+        "winter_Sun8": "{{i18n:Edwina.winter.Sun.8}}",
+        //10 Hearts
+        "winter_Mon10": "{{i18n:Edwina.winter.Mon.10}}",
+        "winter_Tue10": "{{i18n:Edwina.winter.Tue.10}}",
+        "winter_Wed10": "{{i18n:Edwina.winter.Wed.10}}",
+        "winter_Thu10": "{{i18n:Edwina.winter.Thu.10}}",
+        "winter_Fri10": "{{i18n:Edwina.winter.Fri.10}}",
+        "winter_Sat10": "{{i18n:Edwina.winter.Sat.10}}",
+        "winter_Sun10": "{{i18n:Edwina.winter.Sun.10}}",
+
+        //Conversation Topics 
+        "cc_Bridge": "{{i18n:Edwina.CT.cc_Bridge}}",
+        "cc_Bus": "{{i18n:Edwina.CT.cc_Bus}}",,
+        "cc_Minecart": "{{i18n:Edwina.CT.cc_Minecart}}",
+        "cc_Complete": "{{i18n:Edwina.CT.cc_Complete}}",
+        "movieTheater": "{{i18n:Edwina.CT.movieTheater}}",
+        "pamHouseUpgrade": "{{i18n:Edwina.CT.pamHouseUpgrade}}",
+        "pamHouseUpgradeAnonymous": "{{i18n:Edwina.CT.pamHouseUpgradeAnonymous}}",
+        //WWWA topics
+        //Mods conversation topics addition
+        "reject_534": "{{i18n:Edwina.CT.reject_534}}",,
+        //ARV
+        "SterlingTrash": "{{i18n:Edwina.CT.SterlingTrash}}", //Sterling puked into the trashcan besides the Saloon last night. 
+        "SterlingSwim": "{{i18n:Edwina.CT.SterlingSwim}}", //Sterling and the farmer have gone off swimming in the river during the night. 
+        "SterlingBike": "{{i18n:Edwina.CT.SterlingBike}}", //Sterling and the farmer went on a ride down the Ferngill coastline together. --> Commenting on how happy Sterling seems.
+        "SterlingDrugs": "{{i18n:Edwina.CT.SterlingDrugs}}", //Very public information. Many people in town have been noticing how strange he's been acting, and some even ask the farmer to check on him because it's clear he hasn't been doing too hot. Some people even suspect he might've gotten back on something or is trying to get back on something. 
+        "SterlingRelapse": "{{i18n:Edwina.CT.SterlingRelapse}}", // comment on how Pierre seems upset
+        "SterlingApology": "{{i18n:Edwina.CT.SterlingApology}}", //comment on how Sterling is back at work and he feels better
+        "SterlingRiver": "{{i18n:Edwina.CT.SterlingRiver}}", //Sterling goes to dump his beer in the river and commits himself to pursuing full sobriety.  The village notes Sterling's new commitment to sobriety. He is also no longer spending time with Shane. 
+        //Realistic Writer Elliott
+        "elliott_writing_letter1": "{{i18n:Edwina.CT.elliott_writing_letter1}}", //While drafting his novel, Elliott decides to take a break and write some letters to various townsfolk in the hopes of making friends. 
+        "elliott_writing_letter2": "{{i18n:Edwina.CT.elliott_writing_letter2}}", //As Elliott approaches the finish line on his book, he writes again to his friends and hopes to get some responses back. 
+        "elliott_writing_letter3": "{{i18n:Edwina.CT.elliott_writing_letter3}}", //Elliott discovers revising a draft is just as hard as writing one, and once again takes his mind off things by offering what he hopes is some cheer to those he's friendly with. 
+        "elliott_writing_letter4": "{{i18n:Edwina.CT.elliott_writing_letter4}}", //- The book is done, but now he has to sell it. While floundering around in this new, unfamiliar world of book publishing, Elliott turns to something familiar - writing letters. 
+        //Juliet and Jessie the Joja Clerks 
+        "JulietGremlin": "{{i18n:Edwina.CT.JulietGremlin}}", //Juliet finds Gremlin. 
+        //Juna
+        "JunaBeachBallet": "{{i18n:Edwina.CT.JunaBeachBallet}}", //Juna sometimes dances on the beach when it rains, despite hating the beach. Appears sad/angry. 
+        "JunaForestPicnic": "{{i18n:Edwina.CT.JunaForestPicnic}}", //Juna, the player, the Wizard and Robin have a rainy picnic in the forest. - Yup. Juna got most of her picnic supplies from Gus. 
+        "JunaBeachPicnic": "{{i18n:Edwina.CT.JunaBeachPicnic}}", //Juna, the player, Robin and Alex (who just happened to walk by and got roped into joining because he reminded Juna of her newfound brother) have a picnic on the beach. - Yup. Juna got most of her picnic supplies from Gus. 
+        "BigFootWizard ": "{{i18n:Edwina.CT.BigFootWizard}}", //Juna's special order event. Juna convinces one of the shadow people, Silba (who heads up "The Big Foot Coalition", a group dedicated to proving the existence of cryptids), that the Wizard is actually Big Foot. Krobus shows up. V silly. - Juna will definitely tell everyone in the entire world that the Wizard is actually of the Big Foot people.
+        //Lavril
+        "LavrilUnlocked": "{{i18n:Edwina.CT.LavrilUnlocked}}", //The kids have headed to the abandoned orchard in East Scarp and awakened the slumbering Lavril.  -- Lavrill is a ghost and a secret NPC living in the abandoned orchard, so they are a relative secret. However, feel free to have your character comment on how weird Eloise, Jas and Vincent have been acting. Or how Vincent is being weird about his favorite Wumpus toy. 
+        //Lucikiel
+        "LucikielArrives": "{{i18n:Edwina.CT.LucikielArrives}}", //Lucikiel is awakened with a bang, where he proceeds to terrorize the villagers at the center of town. 
+        "ReputationIncreased": "{{i18n:Edwina.CT.ReputationIncreased}}", //Lucikiel is finally recieving some recognition in town, making the villagers more comfortable around him. 
+        //Jasper
+        "JasperGone2": "{{i18n:Edwina.CT.JasperGone2}}", //Jasper leaves on his quest. - Noteː This will trigger as soon as he's gone, so maybe not mention how long he's been missing just in case it's the same day! 
+        "JasperHomeA": "{{i18n:Edwina.CT.JasperHomeA}}", //Jasper arrives back after his fated expedition. - Good to see him home.
+        //RSV
+        "keahi_prank": "{{i18n:Edwina.CT.keahi_prank}}", //Keahi has played a prank on the player and now they stinkǃ  - The player is incredibly stinky, so NPCs can be sure to comment on that. Those who know Keahi would know that this has his MO written all over it. 
+        "event_postweddingreception": "{{i18n:Edwina.CT.event_postweddingreception}}", //Please feel free to include your NPCs reaction to the player character's marriage. 
+        //Yri
+        "YriIntroduction": "{{i18n:Edwina.CT.YriIntroduction}}", //Comment on how it was Yri who designed the revamped Silo
+        "YriLewisWhatTheHeck": "{{i18n:Edwina.CT.YriLewisWhatTheHeck}}", //Lewis and Yri have a dispute next to Lewis house, Lewis won't talk to Yri and just leave. - The dispute takes place in public, people could have seen them fighting. 
+        "AfterProposal": "{{i18n:Edwina.CT.AfterProposal}}", //Charles takes Yri to the mountain to propose to her, the proposal is a success and everyone is happy. - Yri will 100% talk to everyone about her getting married. 
+        "CharlesIntroduction": "{{i18n:Edwina.CT.CharlesIntroduction}}", //Comment on Charles.
+        "YriShack": "{{i18n:Edwina.CT.YriShack}}", //Yri talks to the farmer about Elliotts Shack and how she thinks it's horrible to sell someone a converted storage shack. - If your NPC goes to the beach often maybe they overheard the conversation. 
+        //More Conversation Topics (mod)
+        "wedding": "{{i18n:Edwina.CT.wedding}}", //Triggered when a player gets married 
+        "luauBest": "{{i18n:Edwina.CT.luauBest}}", //Triggered when the luau soup gets the best result 
+        "luauShorts": "{{i18n:Edwina.CT.luauShorts}}", //Triggered when the Mayor's shorts are added to the luau soup 
+        "luauPoisoned": "{{i18n:Edwina.CT.luauPoisoned}}", //Triggered when a poisonous item is added to the luau soup 
+        "divorce": "{{i18n:Edwina.CT.divorce}}", //Triggered when you get divorced 
+        "babyBoy": "{{i18n:Edwina.CT.babyBoy}}", //Triggered when you have a baby, and it's a boy 
+        "babyGirl": "{{i18n:Edwina.CT.babyGirl}}", //Triggered when you have a baby, and it's a girl 
+        "joja_Complete": "{{i18n:Edwina.CT.joja_Complete}}", //Triggered during the Joja Community Development Program completion ceremony 
+        "willyBoatRepaired": "{{i18n:Edwina.CT.willyBoatRepaired}}", //Triggered when Willy's boat in the back room is repaired 
+        "leoValleyArrival": "{{i18n:Edwina.CT.leoValleyArrival}}", //Triggered when Leo moves to the valley 
+        "islandResortUnlocked": "{{i18n:Edwina.CT.islandResortUnlocked}}", //Triggered when the island resort is repaired 
+        "railroadEarthquake": "{{i18n:Edwina.CT.railroadEarthquake}}", //Triggered when the railroad is opened by an earthquake 
+      }
+    },
+  ]
+}
