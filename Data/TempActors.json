@@ -1,0 +1,100 @@
+{
+	"Changes": [
+		//  _____                                                                         _             _                        
+		// |_   _|   ___   _ __ ___    _ __     ___    _ __    __ _   _ __   _   _       / \      ___  | |_    ___    _ __   ___ 
+		//   | |    / _ \ | '_ ` _ \  | '_ \   / _ \  | '__|  / _` | | '__| | | | |     / _ \    / __| | __|  / _ \  | '__| / __|
+		//   | |   |  __/ | | | | | | | |_) | | (_) | | |    | (_| | | |    | |_| |    / ___ \  | (__  | |_  | (_) | | |    \__ \
+		//   |_|    \___| |_| |_| |_| | .__/   \___/  |_|     \__,_| |_|     \__, |   /_/   \_\  \___|  \__|  \___/  |_|    |___/
+		//                            |_|                                    |___/                                               
+		// _______           _______  _______ _________   ______            _______  _______           _______  _______ 
+		//(  ____ \|\     /|(  ___  )(  ____ \\__   __/  (  __  \ |\     /|(  ___  )(  ____ )|\     /|(  ____ \(  ____ \
+		//| (    \/| )   ( || (   ) || (    \/   ) (     | (  \  )| )   ( || (   ) || (    )|| )   ( || (    \/| (    \/
+		//| |      | (___) || |   | || (_____    | |     | |   ) || | _ | || (___) || (____)|| |   | || (__    | (_____ 
+		//| | ____ |  ___  || |   | |(_____  )   | |     | |   | || |( )| ||  ___  ||     __)( (   ) )|  __)   (_____  )
+		//| | \_  )| (   ) || |   | |      ) |   | |     | |   ) || || || || (   ) || (\ (    \ \_/ / | (            ) |
+		//| (___) || )   ( || (___) |/\____) |   | |     | (__/  )| () () || )   ( || ) \ \__  \   /  | (____/\/\____) |
+		//(_______)|/     \|(_______)\_______)   )_(     (______/ (_______)|/     \||/   \__/   \_/   (_______/\_______)
+		{
+			"Action": "Load",
+			"Target": "Characters/GhostDwarf1",
+			"FromFile": "Assets/TempActors/Ghost1.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/GhostDwarf2",
+			"FromFile": "Assets/TempActors/Ghost2.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/GhostDwarf3",
+			"FromFile": "Assets/TempActors/Ghost3.png"
+		},
+		//     _                                                           ___    _   ____           _                
+		//    / \     _ __    _ __   __      __   ___   _ __    _ __      / _ \  ( ) | __ )   _ __  (_)   ___   _ __  
+		//   / _ \   | '_ \  | '_ \  \ \ /\ / /  / _ \ | '_ \  | '_ \    | | | | |/  |  _ \  | '__| | |  / _ \ | '_ \ 
+		//  / ___ \  | | | | | | | |  \ V  V /  |  __/ | | | | | | | |   | |_| |     | |_) | | |    | | |  __/ | | | |
+		// /_/   \_\ |_| |_| |_| |_|   \_/\_/    \___| |_| |_| |_| |_|    \___/      |____/  |_|    |_|  \___| |_| |_|
+		{
+			"Action": "Load",
+			"Target": "Characters/Annwenn",
+			"FromFile": "Assets/TempActors/Annwenn.png"
+		},
+		//Beach Date
+		{
+			"Action": "Load",
+			"Target": "Characters/RodneyBeachDateTiles",
+			"FromFile": "Assets/TempActors/BeachDateTiles.png"
+		},
+// TAROT CARDS//
+		{
+			"Action": "Load",
+			"Target": "Characters/Card1",
+			"FromFile": "assets/TempActors/card1.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Card2",
+			"FromFile": "assets/TempActors/card2.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Card3",
+			"FromFile": "assets/TempActors/card3.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Card4",
+			"FromFile": "assets/TempActors/card4.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/Card5",
+			"FromFile": "assets/TempActors/card5.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/TarotTemperance",
+			"FromFile": "assets/TempActors/tarot__temperance.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/TarotSun",
+			"FromFile": "assets/TempActors/tarot__sun.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/TarotEmperor",
+			"FromFile": "assets/TempActors/tarot__emperor.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/TarotPriestess",
+			"FromFile": "assets/TempActors/tarot__priestess.png"
+		},
+		{
+			"Action": "Load",
+			"Target": "Characters/TarotJudgement",
+			"FromFile": "assets/TempActors/tarot__judgement.png"
+		},
+	]
+}

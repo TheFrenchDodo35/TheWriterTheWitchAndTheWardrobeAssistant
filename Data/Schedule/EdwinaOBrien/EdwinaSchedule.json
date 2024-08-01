@@ -1,0 +1,38 @@
+{
+    "Changes": [
+        {
+            //facingDirection - 0 (up), 1 (right), 2 (down), and 3 (left). Defaults to down.
+            //    <time> [location] <tileX> <tileY> [facingDirection] [animation] [dialogue]
+            "LogName": "Schedule",
+            "Action": "EditData",
+            "Target": "Characters/schedules/EdwinaOBrien",
+            "Entries": {
+
+	        "spring": "610 EastScarp_TNPCWaitingWarpRoom 5 12 0",
+            },
+
+			"When": { "HasSeenEvent |contains=WWWA.EdwinaAppears": false, }
+        },
+       {
+            "LogName": "Schedule",
+            "Action": "EditData",
+            "Target": "Characters/schedules/EdwinaOBrien",
+            "Entries": {
+
+	        "rain": "610 EastScarp_RodneysHouse 10 26 0/800 EastScarp_RodneysHouse 4 30 1/930 EastScarp_Village 15 30 0/1200 Forest 34 50 2/1700 Forest 52 29 3/1930 EastScarp_RodneysHouse 11 26 0/2330 EastScarp_RodneysHouse ",
+
+            "Mon": "610 EastScarp_DeepMountains 7 26 3/1200 EastScarp_DeepMountains 22 26 1/1600 Mountain 62 10 3/2000 EastScarp_RodneysHouse 5 26 2",
+            "Tue": "610 EastScarp_RodneysHouse 17 12 3/800 EastScarp_RodneysHouse 4 30 1/1000 Beach 10 37 3/1830 Town 32 78 1/2200 EastScarp_RodneysHouse 5 26 2",
+            "Wed": "610 EastScarp_RodneysHouse 17 12 3/800 EastScarp_RodneysHouse 4 30 1/1000 Forest 82 94 3/1300 Forest 33 96 0/1900 Town 32 78 1/2200 EastScarp_RodneysHouse 5 26 2",
+            "Thu": "610 EastScarp_RodneysHouse 17 12 3/930 EastScarp_Village 26 60 2/1130 SeedShop 37 18 0/1630 EastScarp_RodneysHouse 4 30 1/2230 EastScarp_RodneysHouse 5 26 2",
+            "Fri": "610 EastScarp_RodneysHouse 17 12 3/800 EastScarp_RodneysHouse 4 30 1/1000 Beach 45 23 2/1900 Town 32 78 1/2200 EastScarp_RodneysHouse 5 26 2",
+            "Sat": "610 EastScarp_RodneysHouse 17 12 3/1030 Town 51 84 0/1500 EastScarp_Village 47 19 2/2130 EastScarp_RodneysHouse 5 26 2",
+            "Sun": "610 EastScarp_RodneysHouse 17 12 3/800 EastScarp_RodneysHouse 4 30 1/1000 Beach 9 9 3/1900 Town 32 78 1/2200 EastScarp_RodneysHouse 5 26 2", 
+            },
+			"When": { "HasSeenEvent |contains=WWWA.EdwinaAppears": true, }
+        },
+    ]
+}
+
+
+

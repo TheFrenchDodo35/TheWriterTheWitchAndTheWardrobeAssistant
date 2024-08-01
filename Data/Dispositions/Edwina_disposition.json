@@ -1,0 +1,70 @@
+{
+    "Changes": [
+        {
+            "LogName": "NPC Dispositions",
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries": {
+                "EdwinaOBrien": {
+                    "DisplayName": "{{i18n:EdwinaDisplayName}}",
+                    "Gender": "Female",
+                    "Age": "Adult",
+                    "Manner": "Rude",
+                    "SocialAnxiety": "Neutral",
+                    "Optimism": "Negative",
+                    "BirthSeason": "summer",
+                    "BirthDay": 14,
+                    "HomeRegion": "Town",
+                    "IsDarkSkinned": true,
+                    "CanBeRomanced": false, 
+                    "CanSocialize": true,
+                    "LoveInterest": "Your Mom",
+                    "PerfectionScore": true,
+                    "EndSlideShow": "TrailingGroup",
+                    "SpawnIfMissing": true,
+                    "SocialTab": "HiddenUntilMet", 
+                    "Calendar": "HiddenUntilMet",
+                    "ShakePortraits": [6],
+                    "Home": [
+                        {
+                            "ID": "Edwina - Temp until she has a house",
+                            "Location": "EastScarp_RodneysHouse",
+                            "Tile": {
+                                "X": "5",
+                                "Y": "26",
+                            },
+                            "Direction": "Down",
+                            "Condition": "PLAYER_HAS_SEEN_EVENT Any WWWA.EdwinaAppears"
+                        },
+                        {
+                            "ID": "Edwina - Waiting Room",
+                            "Location": "EastScarp_TNPCWaitingWarpRoom",
+                            "Tile": {
+                                "X": "5",
+                                "Y": "12",
+                            },
+                            "Direction": "Down",
+                            "Condition": "!PLAYER_HAS_SEEN_EVENT Any WWWA.EdwinaAppears"
+                        },
+                    ],
+                    "FriendsAndFamily": {
+                        "Elliott": "{{i18n:EdwinaElliottRelationship}}",
+                        "RodneyOBrien": "{{i18n:EdwinaRodneyRelationship}}",
+                        "MeredithOBrien": "{{i18n:EdwinaMeredithRelationship}}",
+                    },
+                    "Appearance": [
+                        //Spring
+                        {
+                            "ID": "Generic Edwina Outfit",
+                            "Precedence": 0, 
+                            "Weight": 1,
+                            "Portrait": "{{InternalAssetKey: Assets/Portraits/EdwinaOBrien/Edwina-Spring.png}}",
+                            "Sprite": "{{InternalAssetKey: Assets/Characters/EdwinaOBrien/EdwinaOBrien.png}}"
+                        },
+                    ]
+                },
+                
+                }
+            }
+        ]
+    }

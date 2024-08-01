@@ -1,0 +1,23 @@
+{
+	"Changes": [
+		{
+			"LogName": "NPC Gift Tastes",
+			"Action": "EditData",
+			"Target": "Data/NPCGiftTastes",
+			"Entries": {
+				"EdwinaOBrien": "{{i18n:Edwina.Loved}}/392 394 873/{{i18n:Edwina.Liked}}/80 82 346 348 393 400 636 766 767 768 769/{{i18n:Edwina.Disliked}}/-74/{{i18n:Edwina.Hated}}/-4 91 231 272 904/{{i18n:Edwina.Neutral}}/-21/ ",
+			},
+		},
+
+	]
+}
+
+//Loved gifts: Nautilus Shell, Rainbow Shell, Piña Colada, 
+//Liked gifts: Slime, Bat Wing, Solar Essence, Void Essence, Quartz, Fire Quartz, Coral, Strawberry, Peach, Beer, Wine
+//Neutral gifts: universal neutrals, All bait
+//Disliked gift: Seeds
+//Hated gifts: All fish, Eggplant Parmesan, Eggplant, Banana, Banana Pudding
+
+
+
+
