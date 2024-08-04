@@ -886,7 +886,7 @@
 		},
 		{
 			"Name": "4HeartsSaloonSetup",
-			"Value": "{{4HeartsSaloonSetup}} Sigurd 3 19 2",
+			"Value": "{{4HeartsSaloonSetup}} MadDog.HashtagBearFam.Sigurd 3 19 2",
 			"When": {
 				"HasMod": "MadDog.HashtagBearFam",
 			}
@@ -918,7 +918,7 @@
 		},
 		{
 			"Name": "4HeartsSaloonAnimations",
-			"Value": "{{4HeartsSaloonAnimations}}/animate Sigurd false true 1200 56",
+			"Value": "{{4HeartsSaloonAnimations}}/animate MadDog.HashtagBearFam.Sigurd false true 1200 56",
 			"When": {
 				"HasMod": "MadDog.HashtagBearFam",
 			}
