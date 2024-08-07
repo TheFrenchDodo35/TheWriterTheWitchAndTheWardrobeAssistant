@@ -1239,14 +1239,14 @@
 	"Edwina.Spring.Mon.10": "",//new in WWWA
 
 	"Edwina.Spring.Tue.2": "The Valley feels much more lively than when I was a child.$10#$b#I don't like it.$11",//new in WWWA
-	"Edwina.Spring.Tue.4": "",//new in WWWA
+	"Edwina.Spring.Tue.4": "It's been rather... interesting reconnecting with Rodney. Last time he and I had a proper talk, he was just a child. And now, he's a man with a child of his own who experienced so much in his life. I...#$b#I feel guilty for not being there for him.$2",//new in WWWA
 	"Edwina.Spring.Tue.6": "",//new in WWWA
 	"Edwina.Spring.Tue.8": "",//new in WWWA
 	"Edwina.Spring.Tue.10": "",//new in WWWA
 
 	"Edwina.Spring.Wed.0": "Are you following me, child?#$b#Note that the faint trace of forest magic within your body is nothing compared to my power, so don't try anything stupid.$11#$b#I have my eyes on you.$3",//new in WWWA
 	"Edwina.Spring.Wed.2": "I went shopping to that man's General Store and it's not worthy of that name.$2#$b#The man doesn't even sell sage! How I am supposed to cleanse my home of its negative energy?$5",//new in WWWA
-	"Edwina.Spring.Wed.4": "",//new in WWWA
+	"Edwina.Spring.Wed.4": "I tried to reach out to some colleagues from Zuzu City, but I'm afraid I wasn't able to make contact with anyone. I'm still looking for a place to send a telegram. Rodney said I should use his portable telephone device, but I don't know anyone's number and it appears society has eliminated switchboard operators altogether! What a waste.",//new in WWWA
 	"Edwina.Spring.Wed.6": "",//new in WWWA
 	"Edwina.Spring.Wed.8": "",//new in WWWA
 	"Edwina.Spring.Wed.10": "",//new in WWWA
@@ -1257,7 +1257,7 @@
 	"Edwina.Spring.Thu.10": "",//new in WWWA
 
 	"Edwina.Spring.Fri.0": "You remind me of that strange little boy who always talks about snails.#$b#Are you two related?",//new in WWWA
-	"Edwina.Spring.Fri.4": "",//new in WWWA
+	"Edwina.Spring.Fri.4": "I can't believe Rodney grew up to be so big and strong. He used to be scrawny little child, with his heads always buried in books and models of space rockets! Who knew he'd be nerdier after all these years?",//new in WWWA
 	"Edwina.Spring.Fri.6": "",//new in WWWA
 	"Edwina.Spring.Fri.8": "",//new in WWWA
 	"Edwina.Spring.Fri.10": "",//new in WWWA
@@ -1269,7 +1269,7 @@
 	"Edwina.Spring.Sat.8": "",//new in WWWA
 	"Edwina.Spring.Sat.10": "",//new in WWWA
 
-	"Edwina.Spring.Sun.0": "Why do you try to converse with me?#$b#I don't have any wisdom to share with you.$10#$b#Let me rephrase that. I have an ineffable amount of wisdom and knowledge, far beyond your comprehension, but you're not worthy of hearing it.$11#$b#Now scraw.$3",//new in WWWA
+	"Edwina.Spring.Sun.0": "Why do you try to converse with me?#$b#I don't have any wisdom to share with you.$10#$b#Let me rephrase that. I have an ineffable amount of wisdom and knowledge, far beyond your comprehension, but you're not worthy of hearing it.$11#$b#Now scram.$3",//new in WWWA
 	"Edwina.Spring.Sun.2": "I can't believe how old George and Evelyn look.#$b#When I was last in Pelican Town, prior to my... unforeseen sabbatical, they were only toddlers.",//new in WWWA
 	"Edwina.Spring.Sun.4": "",//new in WWWA
 	"Edwina.Spring.Sun.6": "",//new in WWWA
@@ -1544,12 +1544,12 @@
 	"event-WWWA.EdwinaAppears.01": "Hello @! I was about to do a tarot reading, will you join me? I'd love to show you!",
   "event-WWWA.EdwinaAppears.02": "Let's begin!$3",
   "event-WWWA.EdwinaAppears.03": "This is a pretty basic spread about what's to come. The first card should give us some insight about the past. Let's see it!$3",
-  "event-WWWA.EdwinaAppears.04": "Oh! That's a good one to start with.#$b#Temperance is all about bringing balance, patience and moderation into your life. Considering it's supposed to talk about the past, it reminds me how my life when I lived in Zuzu City with my beloved Annwenn and our little Meredith.#$b#Everything was was great back then.$2#$b#...$2",
+  "event-WWWA.EdwinaAppears.04": "Oh! That's a good one to start with.#$b#Temperance is all about bringing balance, patience and moderation into your life. Considering it's supposed to talk about the past, it reminds me how my life when I lived in Zuzu City with my beloved Annwenn and our little Meredith.#$b#Everything was great back then.$2#$b#...$2",
   "event-WWWA.EdwinaAppears.05": "Now about the second card.$3",
-  "event-WWWA.EdwinaAppears.06": "Another pretty good one. In this spread, it tells us about the present. The Sun brings optimism and positivity. It is also the arcana for success and abundance.#$b#It fits my present pretty well! My life has improved so much since I moved to East Scarp. And I'm on the verge on publishing a new book for the first time in almost fifteen years!$1#$b#Now, for the third card, which holds insight about the future!$3",
+  "event-WWWA.EdwinaAppears.06": "Another pretty good one. In this spread, it tells us about the present. The Sun brings optimism and positivity. It is also the arcana for success and abundance.#$b#It fits my present pretty well! My life has improved so much since I moved to East Scarp. And I'm on the verge of publishing a new book for the first time in almost fifteen years!$1#$b#Now, for the third card, which holds insight about the future!$3",
   "event-WWWA.EdwinaAppears.07": "Oh.$2#$b#The Emperor is the father figure of the major arcanas. It represents authority and establishment.#$b#In this context, it suggests that I may embrace a fatherly role in the future. Not necessarily is the sense of having another child, but more like providing for my family, and protecting and defending my loved ones.#$b#I consider you to be part of this family @. As much as Meredith and Elliott.$1#$b#Now, for the next card, which will tell us about what I should do.$3",
   "event-WWWA.EdwinaAppears.08": "This one is tricky. The High Priestess is the guardian of the subconscious mind. She teaches us about sacred knowledge and hidden mysteries.#$b#I might need to dive deeper into the hidden lore of the Valley! For my next book, perhaps?$1#$b#Well, let's see the final which should give us some guidance about what to next!$3",
-  "event-WWWA.EdwinaAppears.09": "Wow!$1#$b#That's deep.#$b#...$2#$b#Sorry, this card always makes me emotional. This was Annwenn's favorite arcana...$2#$b# In the context of this spread, Judgement suggests that I am at a crossroads and I need to make a life-changing decision based on a blend of intuition and intellect. It could also mean that I am close to reaching a new significant stage in my life and I am now able to put he past behind.#$b#I'm not sure how to interpret it, especially combined with the Emperor that represents my future. It seems that my life is about to change. For the better or for worse? I couldn't tell you.$2#$b#Well, enough of this.",
+  "event-WWWA.EdwinaAppears.09": "Wow!$1#$b#That's deep.#$b#...$2#$b#Sorry, this card always makes me emotional. This was Annwenn's favorite arcana...$2#$b# In the context of this spread, Judgement suggests that I am at a crossroads and I need to make a life-changing decision based on a blend of intuition and intellect. It could also mean that I am close to reaching a new significant stage in my life and I am now able to put the past behind.#$b#I'm not sure how to interpret it, especially combined with the Emperor that represents my future. It seems that my life is about to change. For the better or for worse? I couldn't tell you.$2#$b#Well, enough of this.",
   "event-WWWA.EdwinaAppears.10": "Well... that was interesting. Don't you think?$1#$b#I need to think about it!",
   "event-WWWA.EdwinaAppears.11": "It's here!",
   "event-WWWA.EdwinaAppears.12": "Finally! I've been following a faint trail of arcane energy and it led me right here!",
