@@ -32,6 +32,22 @@
                 }
             }
         },
+        {
+            "LogName": "Dance With The Ocean Witch",
+            "Action": "EditData",
+            "Target": "Data/AudioChanges",
+            "Entries": {
+                "WWWA.TheSadOne": {
+                    "ID": "WWWA.DanceWithTheOceanWitch",
+                    "Category": "Music",
+                    "FilePaths": [
+                        "{{AbsoluteFilePath: Assets/Music/DanceWithTheOceanWitch.ogg}}"
+                    ],
+                    "StreamedVorbis": true,
+                    "Looped": true
+                }
+            }
+        },
 {
             "LogName": "Silo Theme",
             "Action": "EditData",
@@ -47,6 +63,7 @@
                     "Looped": true
                 }
             }
+
         },
     ]
 }

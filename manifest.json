@@ -2,7 +2,7 @@
    "Name": "[CP] The Writer, The Witch & The Wardrobe Assistant",
    "Author": "TheFrenchDodo",
    "Description": "Adds the O'Brien family & friends.",
-   "Version": "0.0.1-alpha",
+   "Version": "0.0.2-alpha",
    "UniqueID": "TheFrenchDodo.WWWA",
    "ContentPackFor": {
       "UniqueID": "Pathoschild.ContentPatcher"

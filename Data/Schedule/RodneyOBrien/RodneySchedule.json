@@ -5,16 +5,16 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "rain": "{{Random:610 ElliottHouse 4 5 3/1730 ElliottHouse 5 8 1/2000 ElliottHouse 3 5 3/2200 EastScarp_RodneysHouse 13 13 0 sleep++610 EastScarp_RodneysHouse 12 29 2/1200 EastScarp_RodneysHouse 10 27 2/1800 EastScarp_RodneysHouse 1 13 0/2200 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
-                "spring": "610 EastScarp_Village 19 120 2/1000 EastScarp_VillageInn 35 32 1/1100 EastScarp_VillageInn 28 26 2 frontsit/1300 SeedShop 16 29 3/1730 ElliottHouse 4 5 3/2200 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Mon": "610 EastScarp_Village 19 120 2/1000 EastScarp_VillageInn 35 32 1/1100 EastScarp_VillageInn 28 26 2 frontsit/1300 SeedShop 16 29 3/1730 ElliottHouse 4 5 3/2200 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Tue": "610 EastScarp_Village 19 120 2/{{RodneyBookwormMobile}}/1800 EastScarp_Village 67 110 3/2300 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Wed": "610 EastScarp_Village 19 120 2/1000 Saloon 3 19 2 frontsit/1530 ArchaeologyHouse {{RodneyLibrarySpot}} read/1800 Beach 43 36 2/2130 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 read/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Fri": "630 EastScarp_RodneysHouse 4 17 2 sport/1000 Town 85 103 2/1430 Forest 73 51 2 frontsit/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 frontsit/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Sat": "610 EastScarp_RodneysHouse 12 28 1/800 EastScarp_Village 11 119 2 sunbathing/1030 Saloon 3 19 2 frontsit/1530 Beach 13 39 2/1900 EastScarp_RodneysHouse 1 14 0/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "Sun": "{{Random:610 EastScarp_DeepMountains 86 44 1/1800 EastScarp_RodneysHouse 13 13 0 sleep++610 Forest 97 40 2 frontsit/1600 Forest 28 15 0/2000 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
-                "GreenRain": "610 Mountain 25 30 2 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain1\"/1230 Mountain 23 31 1 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain2\"/1630 Mountain 23 34 3 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain3\"/2030 EastScarp_RodneysHouse 13 13 0 sleep",
+                "rain": "{{Random:610 ElliottHouse 4 5 3/1730 ElliottHouse 5 8 1/2000 ElliottHouse 3 5 3/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 EastScarp_RodneysHouse 12 29 2/1200 EastScarp_RodneysHouse 10 27 2/1800 EastScarp_RodneysHouse 1 13 0/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
+                "spring": "610 EastScarp_Village 19 120 2/1000 EastScarp_VillageInn 35 32 1/1100 EastScarp_VillageInn 28 26 2 Rodney_frontsit/1300 SeedShop 16 29 3/1730 ElliottHouse 4 5 3/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Mon": "610 EastScarp_Village 19 120 2/1000 EastScarp_VillageInn 35 32 1/1100 EastScarp_VillageInn 28 26 2 Rodney_frontsit/1300 SeedShop 16 29 3/1730 ElliottHouse 4 5 3/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Tue": "610 EastScarp_Village 19 120 2/{{RodneyBookwormMobile}}/1800 EastScarp_Village 67 110 3/2300 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Wed": "610 EastScarp_Village 19 120 2/1000 Saloon 3 19 2 Rodney_frontsit/1530 ArchaeologyHouse {{RodneyLibrarySpot}} Rodney_read/1800 Beach 43 36 2/2130 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 Rodney_read/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Fri": "630 EastScarp_RodneysHouse 4 17 2 Rodney_sport/1000 Town 85 103 2/1430 Forest 73 51 2 Rodney_frontsit/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 Rodney_frontsit/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Sat": "610 EastScarp_RodneysHouse 12 28 1/800 EastScarp_Village 11 119 2 Rodney_sunbathing/1030 Saloon 3 19 2 Rodney_frontsit/1530 Beach 13 39 2/1900 EastScarp_RodneysHouse 1 14 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "Sun": "{{Random:610 EastScarp_DeepMountains 86 44 1/1800 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 Forest 97 40 2 Rodney_frontsit/1600 Forest 28 15 0/2000 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
+                "GreenRain": "610 Mountain 25 30 2 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain1\"/1230 Mountain 23 31 1 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain2\"/1630 Mountain 23 34 3 \"Strings\\schedules\\RodneyOBrien:RodneyGreenRain3\"/2030 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
         },
         {
@@ -22,9 +22,9 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "summer_Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 read/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "summer_Fri": "630 EastScarp_RodneysHouse 4 17 2 sport/1000 Town 85 103 2/1430 Mountain 80 32 3/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 frontsit/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "summer_Sat": "610 EastScarp_RodneysHouse 12 28 1/830 EastScarp_Village 11 119 2 sunbathing/1130 Saloon 3 19 2 frontsit/1530 Beach 13 39 2/1900 EastScarp_RodneysHouse 1 14 0/2330 EastScarp_RodneysHouse 13 13 0 sleep",
+                "summer_Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 Rodney_read/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "summer_Fri": "630 EastScarp_RodneysHouse 4 17 2 Rodney_sport/1000 Town 85 103 2/1430 Mountain 80 32 3/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 Rodney_frontsit/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "summer_Sat": "610 EastScarp_RodneysHouse 12 28 1/830 EastScarp_Village 11 119 2 Rodney_sunbathing/1130 Saloon 3 19 2 Rodney_frontsit/1530 Beach 13 39 2/1900 EastScarp_RodneysHouse 1 14 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
         },
         {
@@ -32,9 +32,9 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "fall_Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 read/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "fall_Fri": "630 EastScarp_RodneysHouse 4 17 2 sport/1000 Town 85 103 2/1430 Forest 73 51 2 frontsit/1630 Forest 100 23 0/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 frontsit/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "fall_Sat": "610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 sleep",
+                "fall_Thu": "630 EastScarp_Village 30 61 2/{{RodneyCoastalGuildVisit}}/1800 {{RodneyVineyardSheerwaterSpot}}/2100 EastScarp_RodneysHouse 8 15 2 Rodney_read/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "fall_Fri": "630 EastScarp_RodneysHouse 4 17 2 Rodney_sport/1000 Town 85 103 2/1430 Forest 73 51 2 Rodney_frontsit/1630 Forest 100 23 0/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 Rodney_frontsit/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "fall_Sat": "610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
         },
         {
@@ -42,9 +42,9 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "winter_Thu": "610 BathHouse_MensLocker 7 25 0/1200 BathHouse_MensLocker 6 6 2 sport/1800 BathHouse_MensLocker 4 13 0/1900 BathHouse_MensLocker 7 25 0/2000 EastScarp_RodneysHouse 13 13 0 sleep",
-                "winter_Fri": "630 EastScarp_RodneysHouse 4 17 2 sport/1000 Town {{Random:28 99 2++35 75 2++23 27 3|inputSeparator=++}}/1430 Forest 76 98 2/1700 Forest 85 50 2/1900 EastScarp_Village {{Random:49 114 2++58 65 3++31 68 3|inputSeparator=++}}/2330 EastScarp_RodneysHouse 13 13 0 sleep",
-                "winter_Sat": "610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 sleep",
+                "winter_Thu": "610 BathHouse_MensLocker 7 25 0/1200 BathHouse_MensLocker 6 6 2 Rodney_sport/1800 BathHouse_MensLocker 4 13 0/1900 BathHouse_MensLocker 7 25 0/2000 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "winter_Fri": "630 EastScarp_RodneysHouse 4 17 2 Rodney_sport/1000 Town {{Random:28 99 2++35 75 2++23 27 3|inputSeparator=++}}/1430 Forest 76 98 2/1700 Forest 85 50 2/1900 EastScarp_Village {{Random:49 114 2++58 65 3++31 68 3|inputSeparator=++}}/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "winter_Sat": "610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
         },
         {
@@ -52,11 +52,11 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "fall_18": "730 EastScarp_RodneysHouse 7 7 1/1200 EastScarp_RodneysHouse 10 27 2/1800 EastScarp_RodneysHouse 2 32 1/2130 EastScarp_RodneysHouse 13 13 0 sleep",
+                "fall_18": "730 EastScarp_RodneysHouse 7 7 1/1200 EastScarp_RodneysHouse 10 27 2/1800 EastScarp_RodneysHouse 2 32 1/2130 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
                 "fall_27": "610 EastScarp_RodneysHouse 12 29 2/1130 EastScarp_VillageInn_SpiritEve 32 33 0/2000 Town 18 51 2",
-                "winter_15": "730 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 frontsit/1600 Beach 46 21 3/2200 EastScarp_RodneysHouse 13 13 0 sleep",
-                "winter_16": "700 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 frontsit/1600 Beach 51 11 2/2230 EastScarp_RodneysHouse 13 13 0 sleep",
-                "winter_17": "700 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 frontsit/1600 Beach 54 21 2/2230 EastScarp_RodneysHouse 13 13 0 sleep",
+                "winter_15": "730 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 Rodney_frontsit/1600 Beach 46 21 3/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "winter_16": "700 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 Rodney_frontsit/1600 Beach 51 11 2/2230 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
+                "winter_17": "700 EastScarp_Village 19 120 2/1100 Saloon 3 19 2 Rodney_frontsit/1600 Beach 54 21 2/2230 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
         },
         //Desert Schedule
@@ -65,8 +65,8 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "fall_Sat": "{{Random:610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 sleep++610 Desert 6 12 1/1500 Desert 7 32 2/1630 Desert 31 48 2/1900 EastScarp_RodneysHouse 8 15 2 read/2330 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
-                "winter_Sat": "{{Random:610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 sleep++610 Desert 6 12 1/1500 Desert 7 32 2/1630 Desert 31 48 2/1900 EastScarp_RodneysHouse 8 15 2 read/2330 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
+                "fall_Sat": "{{Random:610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 Desert 6 12 1/1500 Desert 7 32 2/1630 Desert 31 48 2/1900 EastScarp_RodneysHouse 8 15 2 Rodney_read/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
+                "winter_Sat": "{{Random:610 EastScarp_RodneysHouse 12 29 2/1000 EastScarp_RodneysHouse 10 27 2/1400 EastScarp_RodneysHouse 2 32 1/1600 EastScarp_RodneysHouse 1 13 0/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 Desert 6 12 1/1500 Desert 7 32 2/1630 Desert 31 48 2/1900 EastScarp_RodneysHouse 8 15 2 Rodney_read/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
             },
             "When": {
                 "HasFlag": "ccVault",
@@ -78,7 +78,7 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "Tue": "{{Random:700 EastScarp_Village 19 120 2/{{RodneyBookwormMobile}}/1800 EastScarp_Village 67 110 3/2300 EastScarp_RodneysHouse 13 13 0 sleep++610 Custom_HM_Library 1 7 2 read/1600 Custom_HM_Inn 16 13 2 frontsit/2200 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
+                "Tue": "{{Random:700 EastScarp_Village 19 120 2/{{RodneyBookwormMobile}}/1800 EastScarp_Village 67 110 3/2300 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 Custom_HM_Library 1 7 2 Rodney_read/1600 Custom_HM_Inn 16 13 2 Rodney_frontsit/2200 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
             },
             "When": {
                 "HasMod": "MineralTownArchitects.MineralTown",
@@ -90,7 +90,7 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "Sun": "{{Random:610 Custom_Ridgeside_RSVCliff 80 25 2 frontsit/1700 Custom_Ridgeside_RidgesideVillage 62 43 2/2100 EastScarp_RodneysHouse 13 13 0 sleep++610 EastScarp_DeepMountains 86 44 1/1800 EastScarp_RodneysHouse 13 13 0 sleep++610 Forest 97 40 2 frontsit/1600 Forest 28 15 0/2000 EastScarp_RodneysHouse 13 13 0 sleep|inputSeparator=++}}",
+                "Sun": "{{Random:610 Custom_Ridgeside_RSVCliff 80 25 2 Rodney_frontsit/1700 Custom_Ridgeside_RidgesideVillage 62 43 2/2100 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 EastScarp_DeepMountains 86 44 1/1800 EastScarp_RodneysHouse 13 13 0 Rodney_sleep++610 Forest 97 40 2 Rodney_frontsit/1600 Forest 28 15 0/2000 EastScarp_RodneysHouse 13 13 0 Rodney_sleep|inputSeparator=++}}",
             },
             "When": {
                 "HasMod": "Rafseazz.RSVCP"
@@ -101,7 +101,7 @@
             "Action": "EditData",
             "Target": "Characters/schedules/RodneyOBrien",
             "Entries": {
-                "sapphicsaph_pitv.PrideFestival_1": "610 CommunityCenter 3 9 2 \"Strings\\schedules\\RodneyOBrien:RodneyPrideFestival\"/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 frontsit/2330 EastScarp_RodneysHouse 13 13 0 sleep",
+                "sapphicsaph_pitv.PrideFestival_1": "610 CommunityCenter 3 9 2 \"Strings\\schedules\\RodneyOBrien:RodneyPrideFestival\"/1830 EastScarp_Village {{Random:55 80++53 20++66 10++68 22|inputSeparator=++}} 2 Rodney_frontsit/2330 EastScarp_RodneysHouse 13 13 0 Rodney_sleep",
             },
             "When": {
                 "HasMod": "sapphicsaph_pitv"

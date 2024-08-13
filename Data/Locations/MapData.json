@@ -10,7 +10,7 @@
     {
       "LogName": "Maps loading",
       "Action": "Load",
-      "Target": "Maps/EastScarp_RodneysBasement,Maps/EastScarp_RodneysHouse,Maps/EastScarp_FerngillNationalLibrary,Maps/EastScarp_LibraryExterior",
+      "Target": "Maps/EastScarp_RodneysBasement,Maps/EastScarp_RodneysHouse,Maps/EastScarp_FerngillNationalLibrary,Maps/EastScarp_LibraryExterior,Maps/EastScarp_EdwinasRoom",
       "FromFile": "Assets/Maps/{{TargetWithoutPath}}.tmx"
     },
     //Silo
@@ -55,6 +55,30 @@
           "ExcludeFromNpcPathfinding": false,
           "ArtifactSpots": [],
           "FishAreas": {},
+          "Fish": [],
+          "Forage": [],
+          "CustomFields": {}
+        }
+      }
+    },
+ {
+      "LogName": "Edwina's Room",
+      "Action": "EditData",
+      "Target": "Data/Locations",
+      "Entries": {
+        "EastScarp_EdwinasRoom": {
+          "DisplayName": "{{i18n:MapName.ESEdwinasRoom}}",
+          "CreateOnLoad": {
+            "MapPath": "Maps/EastScarp_EdwinasRoom"
+          },
+          "DefaultArrivalTile": {
+            "X": 20,
+            "Y": 1
+          },
+          "ExcludeFromNpcPathfinding": false,
+          "MusicDefault": "WWWA.DanceWithTheOceanWitch",
+          "ArtifactSpots": [],
+          "FishAreas": {}, //Todo=plunder Mads' code (with permission)
           "Fish": [],
           "Forage": [],
           "CustomFields": {}
@@ -214,6 +238,17 @@
                "Height": 11
              },
              "ScrollText": "{{i18n:MapName.ESRodneysBasement}}"
+           },
+            {
+             "Id": "EdwinasRoom",
+             "LocationName": "EastScarp_EdwinasRoom",
+             "MapPixelArea": {
+               "X": 124,
+               "Y": 35,
+               "Width": 4,
+               "Height": 11
+             },
+             "ScrollText": "{{i18n:MapName.ESEdwinasRoom}}"
            },
            {
              "ScrollTextZones": [],
