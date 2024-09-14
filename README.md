@@ -70,24 +70,24 @@ Rodney is too mean.
 ## Credits
 (not up to date)
 
-[url=https://www.nexusmods.com/users/74479268]Fellowclown[/url] for updating Rodney's portrait to make him look how I envisioned him with 70% more muscles. He also provided several assets and helped a ton for the shading of Meredith's portrait.
+[Fellowclown](https://www.nexusmods.com/users/74479268) for updating Rodney's portrait to make him look how I envisioned him with 70% more muscles. He also provided several assets and helped a ton for the shading of Meredith's portrait.
 
 
 Another big thank you to the beautiful people of the East Scarp Discord for their help, support and feedback! A general thank you goes to every person in the community who wrote a cool tutorial, provided feedback, tips and help.
 
 This mod includes edited public domain assets: 
-[url=https://opengameart.org/content/goblin-caves]Goblin Caves by Hyptosis[/url], [url=https://opengameart.org/content/magical-road-pixel-art-environment]Magical Road Pixel Art Environment by ansimuz[/url] and [url=https://opengameart.org/content/parallax-city-night-4-colors]Parallax City - Night by FisherG[/url].
+[Goblin Caves by Hyptosis](https://opengameart.org/content/goblin-caves), [Magical Road Pixel Art Environment by ansimuz](https://opengameart.org/content/magical-road-pixel-art-environment) and [Parallax City - Night by FisherG](https://opengameart.org/content/parallax-city-night-4-colors).
 
-I used [url=https://sqbr.github.io/browser-dollmaker/#]the dollmaker[/url]created by [url=https://www.nexusmods.com/stardewvalley/users/43761177]SQBR[/url] to generate a few sprites for an event.
+I used [the dollmaker](https://sqbr.github.io/browser-dollmaker/#)created by [SQBR](https://www.nexusmods.com/stardewvalley/users/43761177) to generate a few sprites for an event.
 
-This mod includes edited paid assets: [url=https://finalbossblues.itch.io/pixel-tarot-deck]Pixel Tarot Deck by FinalBossBlues[/url].
+This mod includes edited paid assets: [Pixel Tarot Deck by FinalBossBlues](https://finalbossblues.itch.io/pixel-tarot-deck).
 
-Thank you to [url=https://www.nexusmods.com/stardewvalley/users/70148453]Airyn[/url] for his help with Rodney's portrait (shading, head shape and suggesting he had dark brown hair instead of the red version I did). He also shared [url=https://www.moddrop.com/stardew-valley/mods/1230519-seasonal-outfits-code-template]his code[/url]for seasonal outfits and portraits and helped me set up the dynamic tokens to make it work. He also provided the banner for Rodney's Book Launch Party!
+Thank you to [Airyn](https://www.nexusmods.com/stardewvalley/users/70148453) for his help with Rodney's portrait (shading, head shape and suggesting he had dark brown hair instead of the red version I did). He also shared [his code](https://www.moddrop.com/stardew-valley/mods/1230519-seasonal-outfits-code-template)for seasonal outfits and portraits and helped me set up the dynamic tokens to make it work. He also provided the banner for Rodney's Book Launch Party!
 
-Thank you to [url=https://www.nexusmods.com/users/2893756]Yri[/url]for her help on Rodney's house: she drew the windows for the silo and beautified it.
+Thank you to [Yri](https://www.nexusmods.com/users/2893756)for her help on Rodney's house: she drew the windows for the silo and beautified it.
 
-Thank you to [url=https://www.nexusmods.com/stardewvalley/users/116553368]Atravita[/url], [url=https://www.nexusmods.com/stardewvalley/users/120958053]Violetlizabet[/url] & [url=https://www.nexusmods.com/stardewvalley/users/5575844]Lumisteria[/url] for helping me to solve an issue regarding i18n and JSON Assets!
+Thank you to [Atravita](https://www.nexusmods.com/stardewvalley/users/116553368), [Violetlizabet](https://www.nexusmods.com/stardewvalley/users/120958053) & [Lumisteria](https://www.nexusmods.com/stardewvalley/users/5575844) for helping me to solve an issue regarding i18n and JSON Assets!
 
 Special Stardew Valley 1.6 thanks to maddogofblank, Lumisteria, DestyNova, 7thAxis, TenebrousNova, Fellowclown, kittycatcasey, Jayjaydub, Lemurkat, Bagi and more people than I can remember for plenty of help, emotional & technical support & code. This conversion almost had me give up on modding and I wouldn't have made it without help & support.
 
-Finally, a very big thank goes to [url=https://www.nexusmods.com/users/68088657]LemurKat[/url] for not only making East Scarp, but for creating such a wholesome community of SDV lovers and mod creators.
+Finally, a very big thank goes to [LemurKat](https://www.nexusmods.com/users/68088657) for not only making East Scarp, but for creating such a wholesome community of SDV lovers and mod creators.
