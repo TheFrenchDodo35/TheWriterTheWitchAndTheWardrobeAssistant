@@ -1,6 +1,8 @@
 # The Writer, The Witch & The Wardrobe Assistant.
 
 ![Banner featuring the portraits of Rodney O'Brien, Edwina O'Brien and Meredith O'Brien with the title of the mod "The Writer, The Witch & The Wardrobe Assistant".](https://i.postimg.cc/44V9gLDm/WWWA-2024.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5F6B1I)
+
 
 This is the repository for a Stardew Valley mod. It's in development and isn't available on Nexus Mods at the moment. The first chapter of the mod is available on Nexus Mods: [Creative Differences - NPC Rodney](https://www.nexusmods.com/stardewvalley/mods/13437).
 
@@ -24,9 +26,15 @@ This mod requires:
 - [MEEP](https://www.nexusmods.com/stardewvalley/mods/14493) This mod uses MEEP to display images in game (tarot cards mostly).
 
 ## Config options
-WIP
+**EnableAutograph**: Allows Rodney's autographed photo to spawn in the water and sometimes in artifact spots. Default to true.
+**Silo**: Choose the style of Rodney's silo: vanilla style (default) or Yri (to match Yri's Project Yellog). Default to vanilla.
+**RodneyPolyamory**: Choose whether you want Rodney to ask you out on a date when you are already in a relationship. Default is false. Note that you won't ever be able to date both Elliott & Rodney since they are related.
+
 ## Play guide
-WIP
+For details about heart events, gift tastes and more, you can check [Rodney's page on the East Scarp Wiki](https://eastscarp.wiki.gg/wiki/Rodney)
+
+Details about Edwina & Meredith coming later.
+
 ## Items
 WIP
 ## Compatibility
@@ -91,5 +99,3 @@ Thank you to [Atravita](https://www.nexusmods.com/stardewvalley/users/116553368)
 Special Stardew Valley 1.6 thanks to maddogofblank, Lumisteria, DestyNova, 7thAxis, TenebrousNova, Fellowclown, kittycatcasey, Jayjaydub, Lemurkat, Bagi and more people than I can remember for plenty of help, emotional & technical support & code. This conversion almost had me give up on modding and I wouldn't have made it without help & support.
 
 Finally, a very big thank goes to [LemurKat](https://www.nexusmods.com/users/68088657) for not only making East Scarp, but for creating such a wholesome community of SDV lovers and mod creators.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5F6B1I)
