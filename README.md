@@ -91,3 +91,5 @@ Thank you to [Atravita](https://www.nexusmods.com/stardewvalley/users/116553368)
 Special Stardew Valley 1.6 thanks to maddogofblank, Lumisteria, DestyNova, 7thAxis, TenebrousNova, Fellowclown, kittycatcasey, Jayjaydub, Lemurkat, Bagi and more people than I can remember for plenty of help, emotional & technical support & code. This conversion almost had me give up on modding and I wouldn't have made it without help & support.
 
 Finally, a very big thank goes to [LemurKat](https://www.nexusmods.com/users/68088657) for not only making East Scarp, but for creating such a wholesome community of SDV lovers and mod creators.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Q5Q5F6B1I)
