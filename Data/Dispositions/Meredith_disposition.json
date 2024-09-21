@@ -18,6 +18,7 @@
                     "IsDarkSkinned": true,
                     "CanBeRomanced": false, //edit when making her social
                     "CanSocialize": false, //edit when making her social
+                    "IntroductionsQuest": false,
                     "LoveInterest": "Your Mom",
                     "PerfectionScore": false, //edit when making her social
                     "EndSlideShow": "TrailingGroup",

@@ -18,6 +18,7 @@
                     "IsDarkSkinned": true,
                     "CanBeRomanced": false, 
                     "CanSocialize": true,
+                    "IntroductionsQuest": false,
                     "LoveInterest": "Your Mom",
                     "PerfectionScore": true,
                     "EndSlideShow": "TrailingGroup",
