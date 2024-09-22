@@ -1199,6 +1199,12 @@
 "Mail.RodneyLibraryTalkInvite": "^Dear @,^Would you meet me at the library at your earliest convenience? There is a thing I'd like to talk about with all my friends!^Your friend, Rodney O'Brien.^PS: I have a box of these photos at home and I don't know what to do with it, so here you go.%item object (O)WWWA.AutographedPhoto 20 %%[letterbg Mods/TheFrenchDodo.WWWA/LetterBackgrounds 0][textcolor black][#]Meet me at the Library",
 "Mail.RodneyNationalLibraryInvite": "My dear friend @,^as promised here are the details concerning the public reading I will be doing at the Ferngill National Library.^The event will happen tomorrow afternoon. We'll need to leave early to go to Zuzu City by bus. Meet me at the bus stop before 10 am, okay?^I look forward to seeing you there.^Your friend, Rodney O'Brien.^PS: I really don't know what to do with these, so here, have a few!%item object (O)WWWA.AutographedPhoto 40 %%[letterbg Mods/TheFrenchDodo.WWWA/LetterBackgrounds 0][textcolor black][#]Let's visit the National Library",
 
+//Jukebox song titles //new in WWWA
+"WWWA.RodneysTheme.Title": "Rodney's Theme",
+"WWWA.TheSadOne.Title": "A tale of love and loss",
+"WWWA.DanceWithTheOceanWitch.Title": "Flamenco of the Ocean Witch",
+"WWWA.ComfyHouse.Title": "A comfy silo on the Scarp",
+
 
 
   //EDWINA

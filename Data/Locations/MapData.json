@@ -98,7 +98,7 @@
             {
               "Id": "(O)269", //midnight carp
               "ItemId": "(O)269",
-              "FishAreaID": "UndergroundKrakenLake",
+              "FishAreaID": "EdwinasRoomBeach",
               "Condition": "LOCATION_Season Here Fall Winter"
             },
           ],
