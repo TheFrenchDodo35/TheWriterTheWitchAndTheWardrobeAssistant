@@ -77,9 +77,31 @@
           },
           "ExcludeFromNpcPathfinding": false,
           "MusicDefault": "WWWA.DanceWithTheOceanWitch",
-          "ArtifactSpots": [],
-          "FishAreas": {}, //Todo=plunder Mads' code (with permission)
-          "Fish": [],
+          "ArtifactSpots": [
+            {
+              "Chance": 0.7,
+              "Id": "(O)378",
+              "ItemId": "(O)378", //copper ore
+              "MinStack": 5,
+              "MaxStack": 8
+            },
+          ],
+          "FishAreas": {
+            "EdwinasRoomBeach": {
+              "DisplayName": "{{i18n:MapName.ESEdwinasRoom}}",
+              "Position": null,
+              "CrabPotFishTypes": [ "ocean" ],
+              "CrabPotJunkChance": 0.5
+            }
+          },          
+          "Fish": [
+            {
+              "Id": "(O)269", //midnight carp
+              "ItemId": "(O)269",
+              "FishAreaID": "UndergroundKrakenLake",
+              "Condition": "LOCATION_Season Here Fall Winter"
+            },
+          ],
           "Forage": [],
           "CustomFields": {}
         }
@@ -285,7 +307,7 @@
           "Text": null
      }
    },
-   //Another Mads' fine piece of code
+   //Another Mads' fine piece of code. At this point, I could try and figure how it works, but I trust Mads. And it works, so yeah.
 {
   "LogName": "Edit ES World Map NO SVE",
   "Action": "EditImage",
