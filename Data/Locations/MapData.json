@@ -90,8 +90,8 @@
             "EdwinasRoomBeach": {
               "DisplayName": "{{i18n:MapName.ESEdwinasRoom}}",
               "Position": null,
-              "CrabPotFishTypes": [ "ocean" ],
-              "CrabPotJunkChance": 0.5
+              "CrabPotFishTypes": [ ],
+              "CrabPotJunkChance": 1.0
             }
           },          
           "Fish": [
@@ -102,6 +102,8 @@
               "Condition": "LOCATION_Season Here Fall Winter"
             },
           ],
+          //spook fish void salmon Scorpion carp Midnight Squid Slimejack https://mateusaquino.github.io/stardewids/
+
           "Forage": [],
           "CustomFields": {}
         }
