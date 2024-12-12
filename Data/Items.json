@@ -165,7 +165,11 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/ArcanaCatcherPrunus.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
+
                 },
                 "WWWA.Book.ArtifactOrCutlery":
                 {
@@ -178,7 +182,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/ArtifactOrCutlery.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.CrabsAndWhyIHateThem":
                 {
@@ -191,7 +198,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/CrabsAndWhyIHateThem.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.DeferenceArlington":
                 {
@@ -204,7 +214,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/DeferenceArlington.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.FishingForDumbDumbs":
                 {
@@ -217,7 +230,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/FishingForDumbDumbs.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.GettingChicksToLoveYou":
                 {
@@ -230,7 +246,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/GettingChicksToLoveYou.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.Goblins":
                 {
@@ -243,7 +262,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/Goblins.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.GuideToSculptingWithGold":
                 {
@@ -256,7 +278,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/GuideToSculptingWithGold.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.HerpetologyOfFerngill":
                 {
@@ -269,7 +294,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/HerpetologyOfFerngill.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.LunarkinTrollTales":
                 {
@@ -282,7 +310,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/LunarkinTrollTales.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.MysteriesOfTheDwarves":
                 {
@@ -295,7 +326,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/MysteriesOfTheDwarves.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.PepperRexes":
                 {
@@ -308,7 +342,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/PepperRexes.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.TheBookOfYoba":
                 {
@@ -321,7 +358,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/TheBookOfYoba.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.TheGreatBookOfSlimes":
                 {
@@ -334,7 +374,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/TheGreatBookOfSlimes.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.TheGreatTomeOfMayo":
                 {
@@ -347,7 +390,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/TheGreatTomeOfMayo.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.TheJojaConspiracy":
                 {
@@ -360,7 +406,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/TheJojaConspiracy.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.TheTarotRevealed":
                 {
@@ -373,7 +422,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/TheTarotRevealed.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
                 "WWWA.Book.WhyPepperRexesAreTheBest":
                 {
@@ -386,7 +438,10 @@
                     "ExcludeFromShippingCollection": true,
                     "Price": 500,
                     "Texture": "{{InternalAssetKey: Assets/Items/Books/WhyPepperRexesAreTheBest.png}}",
-                    "SpriteIndex": 0
+                    "SpriteIndex": 0,
+                    "ContextTags": [
+                    "book_item"
+                ]
                 },
 
                 },
