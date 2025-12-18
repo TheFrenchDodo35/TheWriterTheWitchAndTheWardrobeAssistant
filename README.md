@@ -1,3 +1,6 @@
+This version of the mod has been scrapped and is now archived. The updated project will be called "Meet The O'Briens" and doesn't have a repository at the moment.
+In the meantime, you can check out the current version of the mod on Github [Creative Differences - NPC Rodney O'Brien](https://github.com/TheFrenchDodo35/CreativeDifferencesNPCRodney) or the public release on [Nexus Mods](https://www.nexusmods.com/stardewvalley/mods/13437).
+
 # The Writer, The Witch & The Wardrobe Assistant.
 
 ![Banner featuring the portraits of Rodney O'Brien, Edwina O'Brien and Meredith O'Brien with the title of the mod "The Writer, The Witch & The Wardrobe Assistant".](https://i.postimg.cc/44V9gLDm/WWWA-2024.png)
